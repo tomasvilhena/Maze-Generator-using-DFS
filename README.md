@@ -1,0 +1,1 @@
+This is a Simple Maze Generator that geenrates a playable maze in the terminal, with any size specified in the code, it can produce a maze of any dimentions above 2 by 2 and its fully playable using the arrow keys or wasd
